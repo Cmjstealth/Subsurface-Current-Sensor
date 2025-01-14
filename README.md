@@ -1,7 +1,7 @@
 # Subsurface-Current-Sensor
-Deployable low cost DIY sensor buoy for logging subsurface current speed, direction, water temperature, etc at common recreational diving depths (0-130ft)
+Deployable low cost DIY sensor buoy for logging subsurface current speed, direction, water temperature, etc at common recreational diving depths (0-130ft). Note this project is still an incomplete and untested work in progress. Several components still need to be developed before an initial test.
 
-Trying to develop an automated sensor and data logger device that could be cheaply ($60?) built in with common components and 3d printable parts. A device that could be deployed via scuba for several months to collect automated time series data such as water current speeds, direction, temperature, salinity, etc. 
+The goal is to develop an automated sensor and data logger device that could be cheaply ($60?) built in with common components and 3d printable parts. A device that could be deployed via scuba for several months to collect automated time series data such as water current speeds, direction, temperature, salinity, etc. 
 
 Similar to the open source CTD strategy of oceanographyforeveryone.com, this project aims to enable researchers and marine enthusiasts by reduce the financial barrier to collecting key data about our underwater world at scale. The initial design is focused on an negatively buoyant, entirely subsurface tilt sensor. This would allow it to be “hung” from existing structures (with owner permission) that are already permitted and avoid often length regulatory processes often faced by new deployments. In areas where no such structure exists a simple subsurface float could be attached to a temporary anchor.
 
