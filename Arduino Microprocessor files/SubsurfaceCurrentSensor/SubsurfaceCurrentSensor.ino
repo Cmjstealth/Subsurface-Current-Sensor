@@ -182,7 +182,7 @@ void updateSerialDebug() {
 }
 
 
-// Get the data from the WiFi module and send it to the debug serial port
+// Get commands received via serial port
 void ProcessSerialData() {
   while (Serial.available() > 0) {
     tempChar = Serial.read();
