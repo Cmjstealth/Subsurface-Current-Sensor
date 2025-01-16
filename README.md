@@ -12,10 +12,10 @@ Our pilot project is in the Salish sea of Washington state where there is an opp
 <u>Some project notes</u>:
 - Initial version powered by 3 D batteries in series without any voltage regulator (3.6v-4.5v).
 - Data is saved on an internal SD card that can be removed after sensor recovery
-- Operated with a 3 position magnetic switch
-  - Off
+- Operated with a 2 position magnetic switch
   - On (continuous operation): Takes measurements every few seconds useful for collecting calibration data
-  - On (power save): the mode used when deployed for (hopefully) several months at a time
+  - Off (power save): the mode used when deployed for (hopefully) several months at a time
+  - Remove at least one battery to complete turn off 
 
 Water current speed calibration idea so far (untested):
   - Hang sensor from a surface float. Need gps with tracking turned on and the clock synchronized with the sensor's RTC. Line attached from surface float to a boat somewhere well clear of paddle or prop wash effects.
